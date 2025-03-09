@@ -23,9 +23,6 @@ A dynamic web application that allows users to register and manage addresses usi
 - LocalStorage for data persistence
 - JavaScript ES6+
 
-## 🎯 Demo
-
-[Add a screenshot or GIF of your application here]
 
 ## 💻 Installation
 
