@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👤 Author
 
-Your Name
+Hugo Garcia
 - GitHub: [@hugorsgarcia](https://github.com/hugorsgarcia)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/hugorsgarcia)
 
@@ -97,4 +97,3 @@ Your Name
 
 - [Via CEP API](https://viacep.com.br/)
 - React.js Documentation
-- [Add other resources you used]
